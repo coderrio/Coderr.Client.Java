@@ -1,2 +1,6 @@
-# Coderr.Client.Java
-Base library for reporting exceptions from Java-based applications.
+# Java client for Coderr
+
+Work in progress (not complete)
+
+Feel free to contribute.
+
